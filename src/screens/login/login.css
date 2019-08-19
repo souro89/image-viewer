@@ -1,0 +1,25 @@
+.loginCard {
+  text-align: center;
+  margin-top: 18px;
+}
+.cardStyle {
+  width: 420px;
+  margin: auto;
+  padding: 16px 42px 16px 42px;
+  text-align: left;
+}
+.inputStyle {
+  width: 100%;
+}
+
+.dispNone {
+  display: none;
+}
+
+.dispBlock {
+  display: block;
+}
+
+.red {
+  color: red;
+}
